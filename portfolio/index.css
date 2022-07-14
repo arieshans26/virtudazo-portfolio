@@ -1,0 +1,29 @@
+.nav-bg-theme {
+	background-color: #78C0E0;
+	
+}
+
+.bg-main-content-page {
+	background-color: #449DD1;
+}
+.bg-activity {
+	background-color: #ACCBE1;
+
+}
+.bg-projects {
+	background-color: #7C98B3;
+}
+.txt-spacing {
+	letter-spacing: 2px;
+}
+.img-size-activity {
+	height: 200px;
+	width: 300px;
+	padding: 1rem;
+	border-radius: 100px;
+	border: 5px solid black;
+}
+.img-logo {
+	height: 200px;
+	width: 200px;
+}
